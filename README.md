@@ -15,7 +15,8 @@ Contributors
 
 Problem Definition
 ---
-
+- Given a dataset of OKCupid profiles, are we able to develop a model that predicts the compatibility between pairs of individuals based on their profile attributes.
+- How can we verify this?
 
 Models Used
 ---
