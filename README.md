@@ -25,7 +25,7 @@ Models Used
 
 Conclusion
 ---
-
+- Utilizing K Means clustering we were able to achieve 
 
 Our takeaways from this project
 ---
