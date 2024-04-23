@@ -25,7 +25,9 @@ Models Used
 
 Conclusion
 ---
-- Utilizing K Means clustering we were able to achieve 
+- Utilizing K Means clustering we were able to achieve pretty accurate clusters
+- However these clusters failed to take into account dealbreakers between individuals like their sexual orientation
+- The supporting similarity matrix was able to refine the results given by the clustering and output a match percentage
 
 Our takeaways from this project
 ---
