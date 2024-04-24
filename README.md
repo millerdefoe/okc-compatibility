@@ -32,6 +32,11 @@ Conclusion
 
 Our takeaways from this project
 ---
+- How to handle various types of data (Numerical, Catergorical and Textual) as well as cleaning it
+- Machine learning techniques such as sentiment analysis using TextBlob, and K-Means Clustering
+- Enchanced textual data analysis using lemmatizaton, removal of stopwords etc.  
+- Using scikit-learn functions (pairwise_distance) to construct similarity matrixes
+- How to collaborate on a coding project with others
 
 References
 ---
